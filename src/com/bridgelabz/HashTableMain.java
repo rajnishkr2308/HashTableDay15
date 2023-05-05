@@ -19,6 +19,12 @@ public class HashTableMain {
             hashTable.addOrUpdate(word,currentFrequency);
         }
         System.out.println(hashTable);
+        System.out.println("-------------------------------------------");
+        if (hashTable.remove("avoidable"))
+            System.out.println("Word is Deleted");
+        else
+            System.out.println("Word is not Deleted");
+        System.out.println(hashTable);
         }
     }
 
