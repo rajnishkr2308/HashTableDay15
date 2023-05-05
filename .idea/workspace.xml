@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77a9dc17-d236-4610-8d75-cbb80d73715e" name="Changes" comment="" />
+    <list default="true" id="77a9dc17-d236-4610-8d75-cbb80d73715e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/HashLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/HashLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/HashNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/HashNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/HashTableMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/HashTableMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

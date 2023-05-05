@@ -5,7 +5,7 @@ package com.bridgelabz;
         */
         K key;
         V value;
-        HashNode<K,V> next;
+        HashNode<K, V> next;
 
         public HashNode(K key, V value) {
         /*
@@ -13,6 +13,14 @@ package com.bridgelabz;
         */
             this.key = key;
             this.value = value;
+        }
+
+        public String toString() {
+            StringBuilder nodeString = new StringBuilder();
+            nodeString.append("Node: " + " K = ").append(key).append(", V = ").append(value).append("\n");
+            if (next != null)
+                nodeString.append(" , ").append(next);
+            return nodeString.toString();
         }
     }
 
